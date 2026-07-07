@@ -109,6 +109,7 @@ console.log(str);
 
 // MATH Object
 console.log(Math.PI)
+
 console.log(Math.LN10);
 
 console.log(Math.sqrt(35));
